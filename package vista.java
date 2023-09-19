@@ -3,7 +3,7 @@ import modelo.Empleado;
 
 /**
  *
- * @author braya
+ * @author Eduar
  */
 public class frm_empleado extends javax.swing.JFrame {
     Empleado empleado;
